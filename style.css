@@ -92,15 +92,7 @@ body {
   align-items: center;
   gap: 2px;
 }
-.hero-content h3 {
-  font-style: italic;
-  font-weight: 500;
-  font-size: 20px;
-}
-.hero-content h3 span {
-  color: green;
-  font-weight: 700;
-}
+
 .badge {
   display: inline-flex;
   align-items: center;
